@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Quiz A+B",
+        "choice":[
+            {"ID":1,"title":"A+B"},
+            {"ID":2,"title":"A-B"}
+        ],
+        "answer":1
+    },
+    {
+        "title":"Quiz A-B",
+        "choice":[
+            {"ID":1,"title":"A+B"},
+            {"ID":2,"title":"A-B"}
+        ],
+        "answer":2
+    },
+    {
+        "title":"Quiz how to create folder 'mo' in console",
+        "choice":[
+            {"ID":1,"title":"cd mo"},
+            {"ID":2,"title":"mkdir mo"}
+        ],
+        "answer":2
+    }
+]
